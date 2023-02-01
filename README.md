@@ -18,6 +18,7 @@ This application is provided to you as an alternative starter project if you do 
 
 
 
+
 ### Dependencies
 
 ```
@@ -33,11 +34,13 @@ This application is provided to you as an alternative starter project if you do 
 
 ```
 
+  
+
 ### Installation
 
 Provision the necessary AWS services needed for running the application:
 
-1. In AWS, provision a publicly available RDS database running Postgres. <Place holder for link to classroom article>
+1. In AWS, provision a publicly available RDS database running Postgres. its endpoint : database-1.cfosgp7ideui.us-east-1.rds.amazonaws.com
 1. In AWS, provision a s3 bucket for hosting the uploaded files. <Place holder for tlink to classroom article>
 1. Export the ENV variables needed or use a package like [dotnev](https://www.npmjs.com/package/dotenv)/.
 1. From the root of the repo, navigate udagram-api folder `cd starter/udagram-api` to install the node_modules `npm install`. After installation is done start the api in dev mode with `npm run dev`.
@@ -66,6 +69,10 @@ The e2e tests are using Protractor and Jasmine.
 - [Angular](https://angular.io/) - Single Page Application Framework
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
+
+### After deployment:
+you can access this link to reach the running web-app:
+udagram/api/v0
 
 ## License
 

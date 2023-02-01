@@ -1,0 +1,3 @@
+### Pipeline process:
+
+ First of all you should create a new repository in Github then push you project on it. After that go to circleci connect it with your Github account for free now you can to use Cirlcleci to do your continuous integrations to do this you should create your environment variables on Circleci then start to build then deploy your app.  it is the process from development until deployment. 
