@@ -6,7 +6,7 @@ dotenv.config
 export const environment = {
   production: true,
   appName: "Udagram",
-  apiHost: `udagram/api/v0`,
+  apiHost: `http://udagrambucket.s3-website.us-east-2.amazonaws.com`,
 };
 
 /*
