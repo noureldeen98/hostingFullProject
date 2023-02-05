@@ -72,7 +72,7 @@ The e2e tests are using Protractor and Jasmine.
 
 ### After deployment:
 you can access this link to reach the running web-app:
-udagram/api/v0
+http://udagrambucket.s3-website.us-east-2.amazonaws.com
 
 ## License
 
