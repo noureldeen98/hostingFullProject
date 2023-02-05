@@ -6,7 +6,7 @@ dotenv.config
 export const environment = {
   production: true,
   appName: "Udagram",
-  apiHost: `http://database-1.cfosgp7ideui.us-east-1.rds.amazonaws.com`,
+  apiHost: `http://udagram-api-dev.eba-pekhjbht.us-east-1.elasticbeanstalk.com`,
 };
 
 /*
